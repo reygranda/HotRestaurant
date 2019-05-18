@@ -1,0 +1,23 @@
+{
+  "name": "hotrestaurant",
+  "version": "1.0.0",
+  "description": "Hot Restaurant App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reygranda/HotRestaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reygranda/HotRestaurant/issues"
+  },
+  "homepage": "https://github.com/reygranda/HotRestaurant#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
